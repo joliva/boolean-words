@@ -1,12 +1,12 @@
 {
   "author": "John Oliva <joliva@olivalabs.com>",
-  "name": "expression",
+  "name": "boolean-words",
   "description": "a simple boolean expression engine using reparse",
   "version": "0.0.1",
   "main": "expression.js",
   "repository": {
     "type": "git",
-    "url": "git://github.com/joliva/boolean-expression-js.git"
+    "url": "git://github.com/joliva/boolean-words.git"
   },
   "engines": {
     "node": ">=0.4.2"
